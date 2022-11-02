@@ -19,4 +19,4 @@ Social:
 
 - Twitter: https://twitter.com/conan_io
 - Include<C++> discord: https://www.includecpp.org/discord/ (conan channel)
-- Slack: https://cpplang-inviter.cppalliance.org/ (#conan channel)
+- Slack: https://cppalliance.org/slack/ (#conan channel)
