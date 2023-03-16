@@ -1,5 +1,9 @@
-
-![Conan, C and C++ package manager](https://conan.io/img/jfrog_conan_logo.png) 
+<picture>
+  <!-- These from the main client repository https://github.com/conan-io/conan -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/conan-io/conan/develop2/.github/conan2-logo-for-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/conan-io/conan/develop2/.github/conan2-logo-for-light.svg">
+  <img alt="JFrog | Conan 2.0 Logo" src="https://raw.githubusercontent.com/conan-io/conan/develop2/.github/conan2-logo-with-bg.svg">
+</picture>
 
 Conan, Decentralized, open-source (MIT), C and C++ package manager
 ==================================================================
